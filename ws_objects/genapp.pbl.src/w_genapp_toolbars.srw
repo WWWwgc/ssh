@@ -53,7 +53,7 @@ type variables
 /*  Parent window reference */
 window		iw_window
 end variables
-
+//
 event open;//*-----------------------------------------------------------------*/
 //*    open:  Initialize display
 //*-----------------------------------------------------------------*/

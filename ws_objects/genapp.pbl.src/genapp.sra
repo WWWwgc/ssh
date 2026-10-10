@@ -56,7 +56,7 @@ Destroy lnv_connectserv
 end event
 
 event close;//*-----------------------------------------------------------------*/
-//*    close:  Application Close Script:
+//*    close:  Application Close Script:45
 //*            1) Instantiate a connection object
 //*            2) Disconnect from the database
 //*-----------------------------------------------------------------*/
